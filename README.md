@@ -1,4 +1,4 @@
-**Live version:** https://reject-4444.github.io/dia__landing-page/.
+**Live version:** [Dia landing](https://reject-4444.github.io/dia__landing-page/)
 
 **Technologies Used:**
 - HTML
