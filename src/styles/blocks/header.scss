@@ -3,15 +3,11 @@
   padding: 0;
   background-color: $header-background-color;
   position: relative;
-  height: 130vh;
+  height: 100vh;
   border-radius: 0 0 30px 30px;
 
   @media (max-height: 450px) and (min-width: 640px) {
     border-radius: 0;
-  }
-
-  @include onTablet {
-    height: 120vh;
   }
 
   @include onSmallDesktop {
@@ -120,7 +116,7 @@
     background-size: cover;
     background-position: center;
     position: absolute;
-    top: 80vh;
+    top: 65vh;
     bottom: 0;
     left: 0;
     right: 0;
